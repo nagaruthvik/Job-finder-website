@@ -4,7 +4,8 @@ import user from "../models/user.js"
 import jwt from "jsonwebtoken"
 import { log, errorlog } from "../middlewares/log.js";
 
-import bcrypt from "bcrypt"
+const bcrypt = require("bcryptjs");
+
 import {authMiddleware} from "../middlewares/authMiddleware.js";
 
 
