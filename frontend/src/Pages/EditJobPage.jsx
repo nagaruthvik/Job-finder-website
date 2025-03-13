@@ -40,7 +40,7 @@ export default function EditJobPage() {
         const data = {...formData}
 
         try {
-            const api = await fetch(`http://localhost:4000/api/job/update/${id}`,{
+            const api = await fetch(`https://job-finder-website.onrender.com/api/job/update/${id}`,{
                 method: "PUT",
                 headers : {
                     "Content-Type" :"application/json"
