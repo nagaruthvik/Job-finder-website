@@ -37,7 +37,7 @@ export default function AddJobPage() {
         const data = {...formData}
 
         try {
-            const api = await fetch("http://localhost:4000/api/job/addjob",{
+            const api = await fetch("https://job-finder-website.onrender.com/api/job/addjob",{
                 method: "POST",
                 headers : {
                     "Content-Type" :"application/json"
