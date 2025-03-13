@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Sans&display=swap');
+
+
+body{
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    font-family: 'DM Sans', sans-serif;
+    
+}
+
+#mainPage{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    
+}
+
+
+#imageCont{
+    flex: 4; 
+    
+    
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+#imageCont h1{
+    position: absolute;
+    color: white;
+    
+    
+}
+#imageCont img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+#sideCont{
+    flex: 6;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#content{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#signbtn{
+    width: 25vh;
+    height: 6vh;
+    background-color: #ED5353;
+    border: none;
+    font-size: 1.2rem;
+    color: white;
+}
+
+.input{
+    height: 5vh;
+    border: 2px solid #C2C2C2;
+    border-radius: 5px;
+
+}
+.input::placeholder{
+    padding-left: 15px;
+    color: #525252;
+
+}
+#sideContentText{
+    margin: 0;
+}
+p{
+    color: #525252;
+
+}
+span p{
+    display: inline;
+}
+  
+
+  
+  

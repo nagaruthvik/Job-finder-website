@@ -1,0 +1,5 @@
+<div id='loginBtns'>
+          <button id='loginButtons' onClick={handleLogin}>Login</button>
+          
+          <button id='registerButton' onClick={handleRegister}>Register</button>
+        </div>
