@@ -18,7 +18,7 @@ export default function MainPage() {
 
   const apiFetchhing = async () => {
     try {
-      const api = await fetch("http://localhost:4000/api/job/", {
+      const api = await fetch("https://job-finder-website.onrender.com/api/job/", {
         method: "GET",
         headers: {
           "Content-Type": "application/json",
