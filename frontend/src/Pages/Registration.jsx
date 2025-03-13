@@ -27,7 +27,7 @@ export default function Login() {
         mobile: formData.number,
         password: formData.password,
       };
-      const api = await fetch("http://localhost:4000/api/user/register",{
+      const api = await fetch("https://job-finder-website.onrender.com/api/user/register",{
         method : "POST",
         headers :{
           "Content-Type":"application/json"
