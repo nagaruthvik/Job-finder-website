@@ -1,0 +1,120 @@
+[2025-03-11T10:40:55.348Z] TypeError: skills.split is not a function
+    at file:///C:/Users/ASUS/Desktop/Job-Finder-Website-main/backend/rotutes/jobs.js:16:36
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:91:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:280:10)
+[2025-03-11T10:40:55.355Z] TypeError: skills.split is not a function
+    at file:///C:/Users/ASUS/Desktop/Job-Finder-Website-main/backend/rotutes/jobs.js:16:36
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:91:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:280:10)
+[2025-03-11T10:40:56.614Z] TypeError: skills.split is not a function
+    at file:///C:/Users/ASUS/Desktop/Job-Finder-Website-main/backend/rotutes/jobs.js:16:36
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:91:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:280:10)
+[2025-03-11T10:40:56.617Z] TypeError: skills.split is not a function
+    at file:///C:/Users/ASUS/Desktop/Job-Finder-Website-main/backend/rotutes/jobs.js:16:36
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:91:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:280:10)
+[2025-03-11T10:42:18.277Z] ReferenceError: skillsArray is not defined
+    at file:///C:/Users/ASUS/Desktop/Job-Finder-Website-main/backend/rotutes/jobs.js:24:34
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:91:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:280:10)
+[2025-03-11T10:42:18.285Z] ReferenceError: skillsArray is not defined
+    at file:///C:/Users/ASUS/Desktop/Job-Finder-Website-main/backend/rotutes/jobs.js:24:34
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:91:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:280:10)
+[2025-03-11T10:42:19.334Z] ReferenceError: skillsArray is not defined
+    at file:///C:/Users/ASUS/Desktop/Job-Finder-Website-main/backend/rotutes/jobs.js:24:34
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:91:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:280:10)
+[2025-03-11T10:42:19.337Z] ReferenceError: skillsArray is not defined
+    at file:///C:/Users/ASUS/Desktop/Job-Finder-Website-main/backend/rotutes/jobs.js:24:34
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:91:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:280:10)
+[2025-03-11T10:42:28.810Z] ReferenceError: skillsArray is not defined
+    at file:///C:/Users/ASUS/Desktop/Job-Finder-Website-main/backend/rotutes/jobs.js:24:34
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:91:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:280:10)
+[2025-03-11T10:42:28.817Z] ReferenceError: skillsArray is not defined
+    at file:///C:/Users/ASUS/Desktop/Job-Finder-Website-main/backend/rotutes/jobs.js:24:34
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:91:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:280:10)
+[2025-03-11T11:39:41.370Z] ValidationError: jobmodel validation failed: remote: Path `remote` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-03-11T11:40:07.386Z] ValidationError: jobmodel validation failed: remote: Path `remote` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)

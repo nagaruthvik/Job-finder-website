@@ -1,0 +1,78 @@
+#mainCont{
+    box-shadow:0 4px 8px 0 rgba(254, 0, 0, 0), 0 6px 20px 0 rgba(246, 0, 0, 0.19);
+    display: flex;
+    flex-direction: row;
+    gap: 5vh;
+    min-width: 150vh;
+    max-height: 40vh;
+    margin: 1vh;
+    
+    
+}
+
+
+#hoverred {
+    width: 2vh; 
+    height: 25vh;
+    background-color: transparent;
+    
+}
+
+
+#imageDisplay{
+    width: 7vh;
+    height: 6vh;
+}
+
+
+#imgPart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#subPart1{
+    display: flex;
+    gap: 5vh;
+    
+}
+#subPart1 p{
+    color: #9C9C9C;
+    
+}
+#remote{
+    color: #ED5353;
+    font-weight: bold;
+}
+#mainPart2{
+    padding-left: 20vh;
+    
+}
+#subPart2{
+    display: flex;
+    gap: 3vh;
+}
+#location {
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    gap: 2vh;
+}
+
+#subPart2 p{
+    background-color: #FFEEEE;
+    color: black;
+    
+}
+#mainPart2{
+    padding-right: min(15vh);
+}
+#mainPart2 button{
+    background-color: #ED5353;
+    color: white;
+    border: none;
+    padding: 1vh 2vh;
+    border-radius: 3.92px;
+
+    
+}

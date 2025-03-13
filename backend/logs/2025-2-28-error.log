@@ -1,0 +1,30 @@
+[2025-02-28T05:24:59.675Z] ValidationError: User validation failed: mobile: Path `mobile` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-02-28T05:25:10.558Z] ValidationError: User validation failed: mobile: Path `mobile` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-02-28T05:25:22.754Z] ValidationError: User validation failed: mobile: Path `mobile` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-02-28T05:28:35.854Z] ValidationError: User validation failed: mobile: Path `mobile` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-02-28T05:29:36.114Z] ValidationError: User validation failed: mobile: Path `mobile` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-02-28T05:30:37.867Z] ValidationError: User validation failed: mobile: Path `mobile` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)

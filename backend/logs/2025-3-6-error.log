@@ -1,0 +1,25 @@
+[2025-03-06T06:44:34.704Z] ValidationError: jobmodel validation failed: company: Path `company` is required., url: Path `url` is required., position: Path `position` is required., salary: Path `salary` is required., jobType: Path `jobType` is required., remote: Path `remote` is required., location: Path `location` is required., description: Path `description` is required., about: Path `about` is required., information: Path `information` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-03-06T06:50:27.671Z] ValidationError: jobmodel validation failed: jobType: `Part-time` is not a valid enum value for path `jobType`., remote: Path `remote` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-03-06T06:50:58.164Z] ValidationError: jobmodel validation failed: jobType: `Full-time` is not a valid enum value for path `jobType`., remote: Path `remote` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-03-06T06:51:11.843Z] ValidationError: jobmodel validation failed: remote: Path `remote` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-03-06T07:00:12.218Z] ValidationError: jobmodel validation failed: remote: Path `remote` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)

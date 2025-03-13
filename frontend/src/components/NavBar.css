@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+}
+
+
+.navMain{
+    width: 100%;
+    height: 15vh;
+    background-color: #ED5353;
+    border-radius: 0px 0px 8vh 8vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.heading{
+    margin: 5vh;
+    color: white;
+}
+
+
+
+
+#loginBtns{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 10vh;
+    gap: 1vh;
+    
+    
+}
+
+#loginButtons{
+    width: 13vh;
+    height: 5vh;
+    background-color: #FF6B6B;
+    color: white;
+    border: 2px solid white;
+    border-radius: 0.8vh;
+    font-size: 1rem;
+}
+
+#registerButton{
+    width: 13vh;
+    height: 5vh;
+    background-color: white;
+    color: #ED5353;
+    border: none;
+    border-radius: 0.8vh;
+    font-size: 1rem;
+}
+
+#detail{
+    display: flex;
+    flex-direction: row;
+    margin: 10vh;
+    gap: 2vh;
+    justify-content: center;
+    align-items:center ;
+}
+
+#logout{
+    background-color: #ED5353;
+    color: white;
+    border: none;
+    font-size: 1rem;
+}
+
+#greet{
+    color: white;
+}
+
+#profilePic{
+    background-color: white;
+    width: 5vh;
+    height: 5vh;
+    border-radius: 100%;
+}

@@ -1,0 +1,38 @@
+[2025-03-13T09:21:04.294Z] MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+[2025-03-13T09:21:15.853Z] MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+[2025-03-13T09:38:57.777Z] ValidationError: jobmodel validation failed: remote: Path `remote` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-03-13T09:39:44.045Z] ValidationError: jobmodel validation failed: remote: Path `remote` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-03-13T10:17:06.582Z] ValidationError: jobmodel validation failed: jobType: `Part time` is not a valid enum value for path `jobType`., remote: Path `remote` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-03-13T10:18:35.520Z] ValidationError: jobmodel validation failed: remote: Path `remote` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-03-13T10:19:11.774Z] ValidationError: jobmodel validation failed: remote: Path `remote` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-03-13T10:19:36.216Z] ValidationError: jobmodel validation failed: remote: Path `remote` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)

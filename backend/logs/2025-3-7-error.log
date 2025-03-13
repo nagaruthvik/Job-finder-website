@@ -1,0 +1,22 @@
+[2025-03-07T10:03:24.988Z] MongoServerError: unknown top level operator: $limit. If you have a field name that starts with a '$' symbol, consider using $getField or $setField.
+    at Connection.sendCommand (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongodb\lib\cmap\connection.js:299:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongodb\lib\cmap\connection.js:327:26)
+    at async Server.command (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongodb\lib\sdam\server.js:168:29)
+    at async FindOperation.execute (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongodb\lib\operations\find.js:36:16)
+    at async tryOperation (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongodb\lib\operations\execute_operation.js:207:20)
+    at async executeOperation (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongodb\lib\operations\execute_operation.js:75:16)
+    at async FindCursor._initialize (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongodb\lib\cursor\find_cursor.js:61:26)
+    at async FindCursor.cursorInit (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:633:27)
+    at async FindCursor.fetchBatch (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:667:13)
+[2025-03-07T10:05:38.964Z] TypeError: jobModel.find(...).$limit is not a function
+    at file:///C:/Users/ASUS/Desktop/Job-Finder-Website-main/backend/rotutes/jobs.js:32:12
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:91:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ASUS\Desktop\Job-Finder-Website-main\backend\node_modules\express\lib\router\index.js:280:10)

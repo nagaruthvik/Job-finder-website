@@ -1,0 +1,37 @@
+[2025-02-27T06:10:38.487Z] ValidationError: User validation failed: mobile: Path `mobile` is required.
+    at Document.invalidate (C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\document.js:3329:32)
+    at C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\document.js:3090:17
+    at C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+[2025-02-27T06:26:49.238Z] Error: data and hash arguments required
+    at Object.compareSync (C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\bcrypt\bcrypt.js:166:15)
+    at file:///C:/Users/ASUS/Desktop/Backend-Capstone-Project/backend/rotutes/user.js:50:38
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-02-27T06:27:38.355Z] Error: data must be a string or Buffer and hash must be a string
+    at Object.compareSync (C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\bcrypt\bcrypt.js:170:15)
+    at file:///C:/Users/ASUS/Desktop/Backend-Capstone-Project/backend/rotutes/user.js:50:38
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-02-27T06:34:14.563Z] Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\jsonwebtoken\sign.js:111:20)
+    at file:///C:/Users/ASUS/Desktop/Backend-Capstone-Project/backend/rotutes/user.js:52:31
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-02-27T06:34:29.155Z] Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\jsonwebtoken\sign.js:111:20)
+    at file:///C:/Users/ASUS/Desktop/Backend-Capstone-Project/backend/rotutes/user.js:52:31
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-02-27T06:35:53.297Z] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { message: 'login sucessful' }
+    at ServerResponse.writeHead (node:_http_server:358:11)
+    at ServerResponse._implicitHeader (node:_http_server:344:8)
+    at write_ (node:_http_outgoing:985:9)
+    at ServerResponse.end (node:_http_outgoing:1102:5)
+    at ServerResponse.send (C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\express\lib\response.js:232:10)
+    at file:///C:/Users/ASUS/Desktop/Backend-Capstone-Project/backend/rotutes/user.js:58:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-02-27T06:36:09.726Z] RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: { message: 'login sucessful' }
+    at ServerResponse.writeHead (node:_http_server:358:11)
+    at ServerResponse._implicitHeader (node:_http_server:344:8)
+    at write_ (node:_http_outgoing:985:9)
+    at ServerResponse.end (node:_http_outgoing:1102:5)
+    at ServerResponse.send (C:\Users\ASUS\Desktop\Backend-Capstone-Project\backend\node_modules\express\lib\response.js:232:10)
+    at file:///C:/Users/ASUS/Desktop/Backend-Capstone-Project/backend/rotutes/user.js:58:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

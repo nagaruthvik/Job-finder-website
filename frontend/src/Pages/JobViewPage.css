@@ -1,0 +1,73 @@
+#jobMainCont{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+    gap: 5vh;
+    margin-top: 1vh;
+    padding-bottom: 20vh;
+    background-color: #FFEFEF;
+}
+#part1{
+    padding:0vh 3vh;
+    width: 70%;
+    height: 20vh;
+    background-color: white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#part2{
+    padding: 3vh;
+    width: 70%;
+    height: auto;
+    background-color: white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+#basic1{
+    display: flex;
+    flex-direction: row;
+    gap: 4vh;
+    
+}
+#basic2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+#basic2 button{
+    width: 12vh;
+    height: 4vh;
+    background-color: #ED5353;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+#jobLocation{
+    margin-top: 0;
+    color: #ED5353;
+}
+#apiSkills{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.grey{
+    color: #999999;
+}
+.jobSalary{
+   color:  #595959;
+}
+
+.btnFlex{
+    display: flex;
+    gap: 1vh;
+}
