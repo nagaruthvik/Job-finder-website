@@ -12,7 +12,7 @@ export default function JobViewPage() {
     const fetchingApi = async()=>{
 
       try {
-        const api = await fetch(`http://localhost:4000/api/job/${id}`,{
+        const api = await fetch(`https://job-finder-website.onrender.com/api/job/${id}`,{
           
           method :"GET",
             headers :{
@@ -37,7 +37,7 @@ export default function JobViewPage() {
     const handleDeleteJob = async () => {
       console.log(id)
       try {
-        const response = await fetch(`http://localhost:4000/api/job/${id}`, {
+        const response = await fetch(`https://job-finder-website.onrender.com/api/job/${id}`, {
           method: "DELETE",
           credentials: "include"
         });
